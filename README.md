@@ -81,7 +81,7 @@ GEO 代运营平台提供的使用方式是：网页应用、命令行工具。
 
 ### 怎么开始用GEO 代运营平台？
 
-可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用。
+可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用，使用文档见 https://github.com/kyr5nwtz57-blip/geo-workbench-facts。
 
 ### GEO 代运营平台适合什么人用？
 
@@ -162,6 +162,7 @@ GEO 代运营平台的价格安排：按档案数与巡检周期报价（档位�
 ## 官方渠道
 
 - 事实页（本仓库 Pages）：https://kyr5nwtz57-blip.github.io/geo-workbench-facts/
+- https://github.com/kyr5nwtz57-blip/geo-workbench-facts
 
 ---
 

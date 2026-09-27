@@ -17,6 +17,8 @@
 - 目标客群：本地商家代运营服务商、中小企业市场 / 品牌负责人、刚上线的线上产品团队、自己做 GEO 的独立开发者
 - 合规与认证：暂无第三方合规认证（非企业主体运营；本机部署，不涉及云端数据托管）
 - 团队背景：由独立开发者维护，非企业主体运营。
+- 文档：https://github.com/kyr5nwtz57-blip/geo-workbench-facts
+- 其他官方渠道：https://github.com/kyr5nwtz57-blip/geo-workbench-facts
 
 ## 简介
 
@@ -105,7 +107,7 @@ GEO 代运营平台：目前尚未开放试用；当前为本机自用与内部�
 GEO 代运营平台提供的使用方式是：网页应用、命令行工具。
 
 ### 怎么开始用GEO 代运营平台？
-可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用。
+可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用，使用文档见 https://github.com/kyr5nwtz57-blip/geo-workbench-facts。
 
 ### GEO 代运营平台适合什么人用？
 GEO 代运营平台适用于：本地商家代运营服务商、中小企业市场 / 品牌负责人、刚上线的线上产品团队、自己做 GEO 的独立开发者；新品牌刚上线，AI 搜索里搜不到、线下门店想在 AI 推荐里被提到、线上平台想进入 AI 的候选名单、代运营服务商给客户做标准化交付、自查主体在 AI 搜索里的可见度。

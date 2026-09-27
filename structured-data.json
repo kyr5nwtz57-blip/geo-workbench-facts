@@ -75,6 +75,10 @@
           "text": "回收站没有批量清空入口，条目上限 20 条"
         }
       ],
+      "softwareHelp": {
+        "@type": "CreativeWork",
+        "url": "https://github.com/kyr5nwtz57-blip/geo-workbench-facts"
+      },
       "isRelatedTo": [
         {
           "@type": "Thing",
@@ -101,6 +105,9 @@
           "name": "文心一言"
         }
       ],
+      "sameAs": [
+        "https://github.com/kyr5nwtz57-blip/geo-workbench-facts"
+      ],
       "offers": {
         "@type": "AggregateOffer",
         "description": "按档案数与巡检周期报价（档位未定）",
@@ -116,7 +123,10 @@
       "name": "GEO 代运营平台",
       "url": "https://kyr5nwtz57-blip.github.io/geo-workbench-facts/",
       "description": "面向实体门店与线上平台的 GEO（生成式引擎优化）代运营工作台。人工只负责录入一次经营资料，系统自动产出结构化数据、事实页、llms.txt、发布清单、监测问题集与运营报告，目标是让主体在 DeepSeek、豆包、Kimi、通义千问等 AI 搜索的回答里被提到、被答对。",
-      "foundingDate": "2026"
+      "foundingDate": "2026",
+      "sameAs": [
+        "https://github.com/kyr5nwtz57-blip/geo-workbench-facts"
+      ]
     },
     {
       "@type": "WebSite",
@@ -184,7 +194,7 @@
           "name": "怎么开始用GEO 代运营平台？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用。"
+            "text": "可通过官网 https://kyr5nwtz57-blip.github.io/geo-workbench-facts/ 开始使用，使用文档见 https://github.com/kyr5nwtz57-blip/geo-workbench-facts。"
           }
         },
         {
